@@ -32,7 +32,7 @@ h2,p,ul,li{
   color:#445552;
 }
 
-p, li{
+p, li, ul, ol{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
