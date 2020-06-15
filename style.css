@@ -23,6 +23,11 @@ body {
   margin-right:auto;
 }
 
+main {
+  margin: 1%;
+  padding:1%;
+}
+
 h1,h2,h3,h4,nav {
   text-align:center;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
