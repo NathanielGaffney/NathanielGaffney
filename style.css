@@ -4,7 +4,6 @@
 }
 
 .cap {
-  height:auto;
   background-color: #445552 ;
   color:#F5FBEF ;
 }
@@ -13,17 +12,15 @@
   text-align:center;
 }
 
+* {
+box-sizing: border-box;
+}
+
 body {
   max-width:1000px;
   max-height: 800px;
   margin-left:auto;
   margin-right:auto;
-}
-
-main {
-  height: auto;
-  margin: 2vmax;
-  padding: 2vmax;
 }
 
 h1,h2,h3,h4,nav {
